@@ -1,0 +1,13 @@
+# Word temporary and recovery files
+~$*
+*.asd
+*.wbk
+
+# Operating system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor settings
+.vscode/
+.idea/
